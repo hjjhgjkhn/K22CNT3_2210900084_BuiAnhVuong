@@ -1,0 +1,57 @@
+﻿@model K22CNT3_2210900084_project02.Models.CHI_TIET_DH
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>CHI_TIET_DH</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.So_luong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.So_luong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Don_gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Don_gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DON_HANG.Trang_thai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DON_HANG.Trang_thai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SAN_PHAM.Ten_SP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SAN_PHAM.Ten_SP)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "BAVIndex")
+        </div>
+    }
+</div>

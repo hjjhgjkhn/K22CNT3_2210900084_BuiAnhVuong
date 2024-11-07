@@ -1,0 +1,59 @@
+﻿@model K22CNT3_2210900084_project02.Models.SAN_PHAM
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SAN_PHAM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten_SP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten_SP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mo_ta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mo_ta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.So_luong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.So_luong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DANH_MUC.Ten_DM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DANH_MUC.Ten_DM)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("BAVEdit", "BAVEdit", new { id = Model.Ma_SP }) |
+    @Html.ActionLink("BAVBack to List", "BAVIndex")
+</p>

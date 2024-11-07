@@ -1,0 +1,59 @@
+﻿@model K22CNT3_2210900084_project02.Models.KHACH_HANG
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>KHACH_HANG</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten_KH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten_KH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dia_chi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dia_chi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mat_khau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mat_khau)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("BAVEdit", "BAVEdit", new { id = Model.Ma_KH }) |
+    @Html.ActionLink("BAVBack to List", "BAVIndex")
+</p>

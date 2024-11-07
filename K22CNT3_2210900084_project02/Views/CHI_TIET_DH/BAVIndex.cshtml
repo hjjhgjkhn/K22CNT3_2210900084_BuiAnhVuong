@@ -1,0 +1,52 @@
+﻿@model IEnumerable<K22CNT3_2210900084_project02.Models.CHI_TIET_DH>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("BAVCreate New", "BAVCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.So_luong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Don_gia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DON_HANG.Trang_thai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SAN_PHAM.Ten_SP)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.So_luong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Don_gia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DON_HANG.Trang_thai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SAN_PHAM.Ten_SP)
+        </td>
+        <td>
+            @Html.ActionLink("BAVEdit", "BAVEdit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("BAVDetails", "BAVDetails", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("BAVDelete", "BAVDelete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

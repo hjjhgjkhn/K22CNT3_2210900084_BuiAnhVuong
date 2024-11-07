@@ -1,0 +1,40 @@
+﻿@model IEnumerable<K22CNT3_2210900084_project02.Models.GIO_HANG>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("BAVCreate New", "BAVCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ngay_tao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KHACH_HANG.Ten_KH)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ngay_tao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KHACH_HANG.Ten_KH)
+        </td>
+        <td>
+            @Html.ActionLink("BAVEdit", "BAVEdit", new { id=item.Ma_GH }) |
+            @Html.ActionLink("BAVDetails", "BAVDetails", new { id=item.Ma_GH }) |
+            @Html.ActionLink("BAVDelete", "BAVDelete", new { id=item.Ma_GH })
+        </td>
+    </tr>
+}
+
+</table>

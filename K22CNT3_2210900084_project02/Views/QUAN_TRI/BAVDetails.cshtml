@@ -1,0 +1,43 @@
+﻿@model K22CNT3_2210900084_project02.Models.QUAN_TRI
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>QUAN_TRI</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten_QL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten_QL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mat_khau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mat_khau)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("BAVEdit", "BAVEdit", new { id = Model.Ma_QL }) |
+    @Html.ActionLink("BAVBack to List", "BAVIndex")
+</p>

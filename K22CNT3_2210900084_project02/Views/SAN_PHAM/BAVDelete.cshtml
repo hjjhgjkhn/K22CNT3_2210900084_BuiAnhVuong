@@ -1,0 +1,65 @@
+﻿@model K22CNT3_2210900084_project02.Models.SAN_PHAM
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>SAN_PHAM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten_SP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten_SP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mo_ta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mo_ta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.So_luong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.So_luong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DANH_MUC.Ten_DM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DANH_MUC.Ten_DM)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("BAVBack to List", "BAVIndex")
+        </div>
+    }
+</div>

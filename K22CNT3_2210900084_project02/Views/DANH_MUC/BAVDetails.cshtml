@@ -1,0 +1,27 @@
+﻿@model K22CNT3_2210900084_project02.Models.DANH_MUC
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_BAV2210900084Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DANH_MUC</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten_DM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten_DM)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("BAVEdit", "BAVEdit", new { id = Model.Ma_DM }) |
+    @Html.ActionLink("BAVBack to List", "BAVIndex")
+</p>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="17e22e868b5a4dd0a7c361a9db87e359" Name="Diagram1">
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.CHI_TIET_DH" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.CHI_TIET_GH" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.DANH_MUC" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.DON_HANG" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.GIO_HANG" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.KHACH_HANG" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.QUAN_TRI" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="K22CNT3_Buianhvuong_Project2Model.SAN_PHAM" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__CHI_TIET___Ma_DH__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__CHI_TIET___Ma_SP__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__CHI_TIET___Ma_GH__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__CHI_TIET___Ma_SP__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__SAN_PHAM__Ma_DM__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__DON_HANG__Ma_KH__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="K22CNT3_Buianhvuong_Project2Model.FK__GIO_HANG__Ma_KH__3F466844" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

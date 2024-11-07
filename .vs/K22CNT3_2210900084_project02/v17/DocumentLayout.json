@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\shared\\_bav2210900084layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\shared\\_bav2210900084layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\chi_tiet_ghcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\chi_tiet_ghcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\chi_tiet_dhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\chi_tiet_dhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\danh_muccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\danh_muccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\don_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\don_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\gio_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\gio_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\quan_tri\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\quan_tri\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\san_pham\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\san_pham\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\san_pham\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\san_pham\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\san_pham\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\san_pham\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\san_pham\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\san_pham\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\san_pham\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\san_pham\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\quan_tri\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\quan_tri\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\quan_tri\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\quan_tri\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\quan_tri\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\quan_tri\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\quan_tri\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\quan_tri\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\khach_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\khach_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\khach_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\khach_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\khach_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\khach_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\khach_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\khach_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\khach_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\khach_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\gio_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\gio_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\gio_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\gio_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\gio_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\gio_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\gio_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\gio_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\gio_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\gio_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\don_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\don_hang\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\don_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\don_hang\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\don_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\don_hang\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\don_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\don_hang\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\don_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\don_hang\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\danh_muc\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\danh_muc\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\danh_muc\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\danh_muc\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\danh_muc\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\danh_muc\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\danh_muc\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\danh_muc\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\danh_muc\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\danh_muc\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_gh\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\views\\chi_tiet_dh\\bavcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_2210900084_project02\\k22cnt3_2210900084_project02\\models\\bav_2210900084model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1B88D078-B9AB-475E-88C3-E70FC230E444}|K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02.csproj|solutionrelative:k22cnt3_2210900084_project02\\models\\bav_2210900084model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DON_HANGController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\DON_HANGController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\DON_HANGController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\DON_HANGController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\DON_HANGController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:53:45.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DANH_MUCController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\DANH_MUCController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\DANH_MUCController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\DANH_MUCController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\DANH_MUCController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:54:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CHI_TIET_GHController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_GHController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_GHController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_GHController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_GHController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:54:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CHI_TIET_DHController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_DHController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_DHController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_DHController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\CHI_TIET_DHController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:54:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_BAV2210900084Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\Shared\\_BAV2210900084Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\Shared\\_BAV2210900084Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\Shared\\_BAV2210900084Layout.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\Shared\\_BAV2210900084Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T08:51:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T08:51:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GIO_HANGController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\GIO_HANGController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\GIO_HANGController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\GIO_HANGController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\GIO_HANGController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:53:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KHACH_HANGController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\KHACH_HANGController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\KHACH_HANGController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\KHACH_HANGController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\KHACH_HANGController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:53:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QUAN_TRIController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\QUAN_TRIController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\QUAN_TRIController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\QUAN_TRIController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\QUAN_TRIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:52:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SAN_PHAMController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Controllers\\SAN_PHAMController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Controllers\\SAN_PHAMController.cs",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Controllers\\SAN_PHAMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:52:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVIndex.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:11:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDelete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:05:59.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVEdit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:11:39.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVCreate.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:12:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVEdit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:12:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVIndex.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:11.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDetails.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:11:30.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVIndex.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\SAN_PHAM\\BAVDetails.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVEdit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:51.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDetails.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:41.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVDelete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVCreate.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T08:52:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\QUAN_TRI\\BAVDelete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:05:42.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVEdit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:10:06.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDelete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVCreate.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:44.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVIndex.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:27.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVEdit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\KHACH_HANG\\BAVCreate.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:05:18.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDetails.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVDelete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:09:06.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\GIO_HANG\\BAVDetails.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:05:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DON_HANG\\BAVCreate.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:39.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVEdit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDetails.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVDelete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\DANH_MUC\\BAVCreate.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVEdit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:07:48.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDetails.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:07:39.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVDelete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:07:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVCreate.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:07:23.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVIndex.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:56.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BAVDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDetails.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDetails.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDetails.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:37.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BAVIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVIndex.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVIndex.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_GH\\BAVIndex.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:04:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BAVDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDelete.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDelete.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVDelete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BAVCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVCreate.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVCreate.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVCreate.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:06:23.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BAVEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVEdit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVEdit.cshtml",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Views\\CHI_TIET_DH\\BAVEdit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:03:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BAV_2210900084Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Models\\BAV_2210900084Model.edmx",
+              "RelativeDocumentMoniker": "K22CNT3_2210900084_project02\\Models\\BAV_2210900084Model.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_2210900084_project02\\K22CNT3_2210900084_project02\\Models\\BAV_2210900084Model.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT3_2210900084_project02\\Models\\BAV_2210900084Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-07T08:50:09.226Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

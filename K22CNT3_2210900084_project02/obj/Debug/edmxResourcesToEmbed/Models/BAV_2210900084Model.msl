@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="K22CNT3_Buianhvuong_Project2ModelStoreContainer" CdmEntityContainer="BAVEntities">
+    <EntitySetMapping Name="CHI_TIET_DH">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.CHI_TIET_DH">
+        <MappingFragment StoreEntitySet="CHI_TIET_DH">
+          <ScalarProperty Name="Ma_DH" ColumnName="Ma_DH" />
+          <ScalarProperty Name="Ma_SP" ColumnName="Ma_SP" />
+          <ScalarProperty Name="So_luong" ColumnName="So_luong" />
+          <ScalarProperty Name="Don_gia" ColumnName="Don_gia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHI_TIET_GH">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.CHI_TIET_GH">
+        <MappingFragment StoreEntitySet="CHI_TIET_GH">
+          <ScalarProperty Name="Ma_GH" ColumnName="Ma_GH" />
+          <ScalarProperty Name="Ma_SP" ColumnName="Ma_SP" />
+          <ScalarProperty Name="So_luong" ColumnName="So_luong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DANH_MUC">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.DANH_MUC">
+        <MappingFragment StoreEntitySet="DANH_MUC">
+          <ScalarProperty Name="Ma_DM" ColumnName="Ma_DM" />
+          <ScalarProperty Name="Ten_DM" ColumnName="Ten_DM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DON_HANG">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.DON_HANG">
+        <MappingFragment StoreEntitySet="DON_HANG">
+          <ScalarProperty Name="Ma_DH" ColumnName="Ma_DH" />
+          <ScalarProperty Name="Ma_KH" ColumnName="Ma_KH" />
+          <ScalarProperty Name="Ngay_dat" ColumnName="Ngay_dat" />
+          <ScalarProperty Name="Tong_tien" ColumnName="Tong_tien" />
+          <ScalarProperty Name="Trang_thai" ColumnName="Trang_thai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GIO_HANG">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.GIO_HANG">
+        <MappingFragment StoreEntitySet="GIO_HANG">
+          <ScalarProperty Name="Ma_GH" ColumnName="Ma_GH" />
+          <ScalarProperty Name="Ma_KH" ColumnName="Ma_KH" />
+          <ScalarProperty Name="Ngay_tao" ColumnName="Ngay_tao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACH_HANG">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.KHACH_HANG">
+        <MappingFragment StoreEntitySet="KHACH_HANG">
+          <ScalarProperty Name="Ma_KH" ColumnName="Ma_KH" />
+          <ScalarProperty Name="Ten_KH" ColumnName="Ten_KH" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Dia_chi" ColumnName="Dia_chi" />
+          <ScalarProperty Name="Mat_khau" ColumnName="Mat_khau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUAN_TRI">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.QUAN_TRI">
+        <MappingFragment StoreEntitySet="QUAN_TRI">
+          <ScalarProperty Name="Ma_QL" ColumnName="Ma_QL" />
+          <ScalarProperty Name="Ten_QL" ColumnName="Ten_QL" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Mat_khau" ColumnName="Mat_khau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SAN_PHAM">
+      <EntityTypeMapping TypeName="K22CNT3_Buianhvuong_Project2Model.SAN_PHAM">
+        <MappingFragment StoreEntitySet="SAN_PHAM">
+          <ScalarProperty Name="Ma_SP" ColumnName="Ma_SP" />
+          <ScalarProperty Name="Ten_SP" ColumnName="Ten_SP" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+          <ScalarProperty Name="Mo_ta" ColumnName="Mo_ta" />
+          <ScalarProperty Name="So_luong" ColumnName="So_luong" />
+          <ScalarProperty Name="Ma_DM" ColumnName="Ma_DM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
